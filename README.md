@@ -1,2 +1,3 @@
-# Intro-to-Excel-for-Compensation-and-Benefits
-An introduction and guide to Excel data manipulation and formulas targeted towards compensation and benefits work
+# Intro-to-Excel-for-the-non-technical
+An introduction and guide to Excel data manipulation and formulas targeted towards non-technical folk and beginning analysts
+
